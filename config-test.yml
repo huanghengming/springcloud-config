@@ -1,1 +1,2 @@
-version 2.0
+config:
+   info: "main config-test.yml version1.0"
